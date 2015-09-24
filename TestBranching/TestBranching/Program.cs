@@ -10,6 +10,7 @@ namespace TestBranching
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Branch.");
         }
     }
 }
