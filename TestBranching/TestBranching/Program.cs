@@ -10,7 +10,7 @@ namespace TestBranching
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("branch1 Edits the original line.");
+            
         }
     }
 }
